@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Aspiring DevOps Engineer | AWS Certified Cloud Practitioner | Passionate About Cloud Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-406&label=Profile%20views&color=1a9338&style=flat" alt="manoj-406" /> </p>
 
