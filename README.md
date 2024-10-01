@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-406&label=Profile%20views&color=1a9338&style=flat" alt="manoj-406" /> </p>
 
-- 💬 Ask me about **Python, AWS, DevOps, HTML, CSS**
+- 💬 Ask me about **Python, AWS, DevOps, AZURE**
 
 - 📫 How to reach me **manojgonchala15@gmail.com**
 
